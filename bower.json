@@ -1,9 +1,9 @@
 {
   "name": "josh.js",
   "version": "0.2.10",
-  "homepage": "http://sdether.github.io/josh.js/",
+  "homepage": "http://hiroki7v11.github.io/josh.js/",
   "authors": [
-    "Arne Claassen <arne@claassen.net>"
+    "hiroki-repo <hiroki7v11@gmail.com>"
   ],
   "description": "Javascript Online SHell provides a toolkit for building bash-like command line consoles for web pages.",
   "main": [
